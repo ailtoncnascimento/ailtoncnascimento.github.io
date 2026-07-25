@@ -1,6 +1,6 @@
 ---
 title: "Da escassez à abundância: a matemática na era da IA"
-date: 2026-07-24 18:00:00 -0300
+date: 2026-07-25 06:00:00 -0300
 categories: [Matemática, Miscelânea]
 tags: [inteligência artificial, terence tao, filosofia da matemática, formalização, icm 2026]
 math: true
