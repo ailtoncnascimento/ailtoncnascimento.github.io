@@ -4,9 +4,7 @@ date: 2026-07-27 10:00:00 -0300
 categories: [Matemática, Filosofia das Ciências]
 tags: [filosofia da matemática, física, feynman, dirac, gauss, epistemologia]
 math: true
-description: Um diálogo entre Feynman e Kac abre uma das perguntas mais antigas da filosofia: a matemática é uma invenção humana ou uma estrutura eterna que apenas descobrimos?
----
-
+description: "Um diálogo entre Feynman e Kac abre uma das perguntas mais antigas da filosofia: a matemática é uma invenção humana ou uma estrutura eterna que apenas descobrimos?"
 Depois de uma palestra do matemático Mark Kac no Caltech, Richard Feynman levantou-se da plateia e disparou uma provocação que ficaria famosa:
 
 > *Se toda a matemática desaparecesse, isso atrasaria a física em exatamente uma semana.*
