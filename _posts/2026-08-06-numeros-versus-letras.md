@@ -178,7 +178,7 @@ E talvez seja essa a definição mais honesta da disciplina: a arte de encontrar
 
 ## Referências
 
-- SINGH, Simon. *O Último Teorema de Fermat*. Edição em português disponível no Internet Archive: <https://archive.org/details/OUltimoTeoremaDeFermatSimonSingh>.
+- SINGH, Simon. *O Último Teorema de Fermat*. Edição em português. Editora‎ Record, 1998.
 - MONTGOMERY, Hugh L.; VAUGHAN, Robert C. *Multiplicative Number Theory I: Classical Theory*. Cambridge Studies in Advanced Mathematics, v. 97. Cambridge: Cambridge University Press, 2007. ISBN 978-0-521-84903-6.
 - WILES, Andrew. “Modular Elliptic Curves and Fermat's Last Theorem”. *Annals of Mathematics*, v. 141, n. 3, p. 443–551, 1995.
 - TAYLOR, Richard; WILES, Andrew. “Ring-Theoretic Properties of Certain Hecke Algebras”. *Annals of Mathematics*, v. 141, n. 3, p. 553–572, 1995.
