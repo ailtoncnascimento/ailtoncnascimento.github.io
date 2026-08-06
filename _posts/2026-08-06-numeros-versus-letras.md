@@ -168,7 +168,7 @@ Repare no que a escada conta. No degrau mais concreto, os reais, temos tudo: ord
 
 É a mesma lição da diagonal do quadrado, repetida em oitava mais alta: cada vez que os objetos que tínhamos não bastam, inventamos objetos novos, mais gerais, ao preço de abrir mão de alguma familiaridade. O número nunca foi "uma coisa só". Foi sempre uma escada que sobe --- e cada degrau exige uma letra nova para ser nomeado.
 
-## Coda
+## Conclusão
 
 Volto, para encerrar, à queixa do começo: *"eu entendia quando era só número"*. Agora podemos ler nela o que ela de fato diz. Ela expressa saudade do particular, do concreto, do que se pode contar nos dedos. É uma saudade legítima --- mas confunde conforto com compreensão.
 
