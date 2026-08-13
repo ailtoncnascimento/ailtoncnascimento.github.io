@@ -62,7 +62,7 @@ O binário determinismo *versus* probabilismo, que parecia tão nítido, começa
 
 Confesso que meu coração pende para o lado de Einstein. Custa-me acreditar que, lá no fundo, não exista uma ordem — uma legalidade que sustente o mundo mesmo quando não conseguimos enxergá-la. Sou, por temperamento, determinista.
 
-E, no entanto, adoro brincar com probabilidades nas tarefas mais corriqueiras: do dominó com os amigos — pesando quais pedras já saíram e o que ainda pode vir na mão do adversário — até o cálculo silencioso das chances de, num encontro totalmente casual, esbarrar com alguém interessante. Gosto desse jogo entre o previsível e o imponderável. Mas o faço sempre com a mesma convicção no fundo do peito: a de que alguma ordem parece escondida no meio deste caos de incertezas e possibilidades.
+E, no entanto, adoro brincar com probabilidades nas tarefas mais corriqueiras: do dominó com os amigos — pesando quais pedras já saíram e o que ainda pode vir na mão do adversário — até o cálculo silencioso das chances de, num rolê totalmente aleatório, esbarrar com alguém interessante. Gosto desse jogo entre o previsível e o imponderável. Mas o faço sempre com a mesma convicção no fundo do peito: a de que alguma ordem parece escondida no meio deste caos de incertezas e possibilidades.
 
 Mas mantenho essa aposta com a única postura que me parece honesta diante de tanto mistério: a de reconhecer que *as coisas que não sabemos superam sobremaneira aquelas que sabemos e das quais temos certeza*. Achar que já entendi o suficiente para bater o martelo seria trair a própria disputa que me fascina.
 
