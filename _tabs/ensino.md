@@ -19,7 +19,6 @@ Nesta página estão as disciplinas que ministro atualmente e o histórico de tu
 <small>As duas turmas de Teoria dos Números compartilham horário e sala, atendendo a currículos iguais.</small>
 
 ### Pós-Graduação
-
 Programa de Pós-Graduação em Matemática (PPGMAT) — UFPI.
 
 | Código | Disciplina | Turma | Horário | Local |
@@ -27,37 +26,33 @@ Programa de Pós-Graduação em Matemática (PPGMAT) — UFPI.
 | CPPGMAT/CCN001 | Equações Diferenciais Parciais I | T01 | 246M23 (segunda, quarta e sexta, manhã) | Sala 01 — PPGMAT |
 | CPPGMAT/CCN022 | Seminário de Análise II | T01 | 35M23 (terça e quinta, manhã) | Sala 02 — PPGMAT |
 
-<!-- ============================================================
-     MODELO PARA DIVULGAR MATERIAIS (invisível no site enquanto
-     estiver dentro deste comentário).
-
-     COMO ATIVAR:
-     1. Envie primeiro os PDFs para a pasta assets/pdfs/
-        (ex.: assets/pdfs/edp1/lista1.pdf).
-     2. Copie o bloco abaixo para FORA do comentário, logo após
-        a disciplina correspondente, e ajuste os nomes.
-
-     IMPORTANTE: um link /assets/pdfs/... só pode ficar fora do
-     comentário se o arquivo já existir no repositório — caso
-     contrário a publicação do site falha.
-     Links do YouTube podem ser adicionados livremente.
-
 **Materiais — Equações Diferenciais Parciais I**
 
-- **Plano de curso:** [PDF](/assets/pdfs/edp1/plano.pdf)
-- **Notas de aula:** [PDF](/assets/pdfs/edp1/notas.pdf)
+- **Plano de curso:** [PDF](/assets/pdfs/edp1/Plano_de_Ensino_EDP_I_2026_2.pdf)
+- **Notas de aula — Classificação e formas canônicas (unidade preliminar):** [PDF](/assets/pdfs/edp1/Notas_EDP_I_Classificacao_Formas_Canonicas.pdf)
+
+<!-- ============================================================
+     MODELO PARA MAIS MATERIAIS (listas e videoaulas) — invisível
+     no site enquanto estiver dentro deste comentário.
+     COMO ATIVAR: suba o arquivo em assets/pdfs/edp1/ e mova a
+     linha/tabela correspondente para FORA do comentário.
+     Um link /assets/pdfs/... só pode sair do comentário depois
+     que o arquivo já existe no repositório, senão o build falha.
+     Links do YouTube podem ser adicionados livremente.
+
+**Listas de exercícios — Equações Diferenciais Parciais I**
 
 | Lista | Assunto | Arquivo |
 | :-- | :-- | :-- |
 | 1 | Equação do transporte | [PDF](/assets/pdfs/edp1/lista1.pdf) |
 | 2 | Equação de Laplace | [PDF](/assets/pdfs/edp1/lista2.pdf) |
 
+**Videoaulas — Equações Diferenciais Parciais I**
+
 | Aula | Tema | Link |
 | :-- | :-- | :-- |
 | 1 | Introdução | [YouTube](https://youtube.com/watch?v=XXXXXXXX) |
-
      FIM DO MODELO ============================================= -->
-
 ## Disciplinas anteriores
 
 ### Universidade Federal do Piauí — Graduação
