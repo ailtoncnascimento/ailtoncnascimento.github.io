@@ -30,6 +30,7 @@ Programa de Pós-Graduação em Matemática (PPGMAT) — UFPI.
 
 - **Plano de curso:** [PDF](/assets/pdfs/edp1/Plano_de_Ensino_EDP_I_2026_2.pdf)
 - **Notas de aula — Classificação e formas canônicas (unidade preliminar):** [PDF](/assets/pdfs/edp1/Notas_EDP_I_Classificacao_Formas_Canonicas.pdf)
+- **Notas de aula — Preliminares do cálculo, equação de Laplace e solução fundamental (Semana 2, Unidade 1):** [PDF](/assets/pdfs/edp1/Notas_EDP_I_Laplace_Solucao_Fundamental.pdf)
 
 <!-- ============================================================
      MODELO PARA MAIS MATERIAIS (listas e videoaulas) — invisível
