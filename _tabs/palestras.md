@@ -26,9 +26,8 @@ Do episódio 73 de *The Big Bang Theory* — em que Sheldon Cooper declara 73 o 
 - **VIII Semana de Matemática da UESPI** — 2019
 - Seminário — 2020
 
-> Este é o tema do post *73, o melhor número, e os primos de Sheldon* na Miscelânea.
+> Este é o tema do post [*73, o melhor número, e os primos de Sheldon*](https://ailtoncnascimento.github.io/posts/73-o-melhor-numero-e-os-primos-de-sheldon%281%29/) na Miscelânea.
 {: .prompt-tip }
-
 ### Minicurso de Teoria dos Números
 
 > ▶ **Minicurso completo em vídeo** no canal *Theoremas & Theorias*, projeto de extensão do Departamento de Matemática da UFPI:
