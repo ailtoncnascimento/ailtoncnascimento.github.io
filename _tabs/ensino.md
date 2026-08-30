@@ -5,7 +5,7 @@ order: 2
 math: true
 ---
 
-Nesta página estão as disciplinas que ministro atualmente e o histórico de turmas anteriores. Os materiais didáticos — planos de curso, notas de aula, listas de exercícios e videoaulas — serão disponibilizados aqui ao longo do semestre.
+Nesta página estão as disciplinas que ministro atualmente e o histórico de turmas anteriores. Os materiais didáticos — planos de curso, notas de aula, listas de exercícios, serão disponibilizados aqui ao longo do semestre.
 
 ## Semestre 2026.2
 
@@ -83,6 +83,9 @@ Programa de Pós-Graduação em Matemática (PPGMAT) — UFPI.
 
 | Período | Código | Disciplina | CH | Turma |
 | :-: | :-- | :-- | :-: | :-: |
+| 2023.2 | SBL0084 | Probabilidade e Estatística | 64h | 01 |
+| 2023.2 | SBL0089 | Séries e Equações Diferenciais | 64h | 02 |
+| 2023.2 | SBL0095 | Variáveis Complexas | 64h | 01 |
 | 2023.1 | SBL0084 | Probabilidade e Estatística | 64h | 01 |
 | 2023.1 | SBL0089 | Séries e Equações Diferenciais | 64h | 02 |
 | 2023.1 | SBL0095 | Variáveis Complexas | 64h | 01 |
