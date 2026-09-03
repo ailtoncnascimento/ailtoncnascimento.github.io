@@ -42,12 +42,12 @@ Programa de Pós-Graduação em Matemática (PPGMAT) — UFPI.
      que o arquivo já existe no repositório, senão o build falha.
      Links do YouTube podem ser adicionados livremente.
 
+     
 **Listas de exercícios — Equações Diferenciais Parciais I**
 
 | Lista | Assunto | Arquivo |
-| :-- | :-- | :-- |
-| 1 | Equação do transporte | [PDF](/assets/pdfs/edp1/lista1.pdf) |
-| 2 | Equação de Laplace | [PDF](/assets/pdfs/edp1/lista2.pdf) |
+| :--: | :-- | :--: |
+| 1ª | Classificação, formas canônicas e equação de Laplace (Unidade 1) | [PDF](/assets/pdfs/edp1/Lista_de_Exercicios_1_EDP_I_2026_2.pdf) |
 
 **Videoaulas — Equações Diferenciais Parciais I**
 
