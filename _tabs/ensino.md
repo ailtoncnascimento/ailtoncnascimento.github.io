@@ -33,28 +33,23 @@ Programa de Pós-Graduação em Matemática (PPGMAT) — UFPI.
 - **Notas de aula — Preliminares do cálculo, equação de Laplace e solução fundamental (Semana 2, Unidade 1):** [PDF](/assets/pdfs/edp1/Notas_EDP_I_Laplace_Solucao_Fundamental.pdf)
 - **Notas de aula — Função de Green, fórmula de Poisson e propriedade do valor médio (Semana 3, Unidade 1):** [PDF](/assets/pdfs/edp1/Notas_EDP_I_Funcao_de_Green_e_Poisson.pdf)
 
-<!-- ============================================================
-     MODELO PARA MAIS MATERIAIS (listas e videoaulas) — invisível
-     no site enquanto estiver dentro deste comentário.
-     COMO ATIVAR: suba o arquivo em assets/pdfs/edp1/ e mova a
-     linha/tabela correspondente para FORA do comentário.
-     Um link /assets/pdfs/... só pode sair do comentário depois
-     que o arquivo já existe no repositório, senão o build falha.
-     Links do YouTube podem ser adicionados livremente.
-
-     
 **Listas de exercícios — Equações Diferenciais Parciais I**
 
 | Lista | Assunto | Arquivo |
 | :--: | :-- | :--: |
 | 1ª | Classificação, formas canônicas e equação de Laplace (Unidade 1) | [PDF](/assets/pdfs/edp1/Lista_de_Exercicios_1_EDP_I_2026_2.pdf) |
 
+<!-- ============================================================
+     MODELO PARA MAIS MATERIAIS — invisível no site
+
 **Videoaulas — Equações Diferenciais Parciais I**
 
 | Aula | Tema | Link |
 | :-- | :-- | :-- |
 | 1 | Introdução | [YouTube](https://youtube.com/watch?v=XXXXXXXX) |
+
      FIM DO MODELO ============================================= -->
+
 ## Disciplinas anteriores
 
 ### Universidade Federal do Piauí — Graduação
