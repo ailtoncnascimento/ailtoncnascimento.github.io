@@ -8,7 +8,7 @@ math: true
 
 > **Primeiro de três textos.** Este é o mais técnico da série: trata do que é o problema de Navier–Stokes, de onde ele vem, e do que exatamente foi anunciado em setembro de 2026. Os dois seguintes tratarão da polêmica de prioridade entre a OpenAI e os matemáticos que chegaram primeiro, e do papel da matemática numa era em que máquinas produzem demonstrações.
 
-Em **8 de setembro de 2026**, a OpenAI anunciou que um sistema interno de agentes havia produzido — e formalizado no assistente de provas Lean — uma demonstração de que um fluido tridimensional incompressível, inicialmente **em repouso**, pode desenvolver uma singularidade em tempo finito sob a ação de uma força externa suave. No dia anterior, Tristan Buckmaster e Levent Alpöge haviam tornado público um resultado aparentado, sobre as equações de Euler forçadas. Dois dias depois, o Clay Mathematics Institute publicou uma nota dizendo que compartilha do entusiasmo, que seguirá suas regras, e que **"o processo é deliberadamente sem pressa"**.
+Em **8 de setembro de 2026**, a OpenAI anunciou que um sistema interno de agentes havia produzido — e formalizado no assistente de provas Lean — uma demonstração de que um fluido tridimensional incompressível, inicialmente **em repouso**, pode desenvolver uma singularidade em tempo finito sob a ação de uma força externa suave. No dia anterior, Tristan Buckmaster e Levent Alpöge haviam tornado público um resultado similar, sobre as equações de Euler forçadas. Dois dias depois, o Clay Mathematics Institute publicou uma nota dizendo que compartilha do entusiasmo, que seguirá suas regras, e que **"o processo é deliberadamente sem pressa"**.
 
 A imprensa converteu isso em "IA resolve problema de um milhão de dólares". A situação real é mais interessante e bem mais delicada. Para entendê-la é preciso saber três coisas: o que a equação diz, por que ela resiste há noventa anos, e — sobretudo — que o problema do milênio tem **quatro enunciados distintos**, e o que foi anunciado responde a dois deles, não aos dois que quase todo mundo tem em mente ao dizer "Navier–Stokes". A referência de fundo aqui é o tratado de Pierre Gilles Lemarié-Rieusset, *The Navier–Stokes Problem in the 21st Century*, hoje o mapa mais completo do território.
 
@@ -87,7 +87,7 @@ u_\lambda(x,t) = \lambda\, u(\lambda x,\lambda^2 t),
 p_\lambda(x,t) = \lambda^2 p(\lambda x, \lambda^2 t),
 $$
 
-que preserva soluções. Sob ele, a norma da energia se comporta como $\|u_\lambda\|_{L^2} = \lambda^{-1/2}\|u\|_{L^2}$: ao ampliar os pequenos detalhes, ela **diminui**. Diz-se que a energia é *supercrítica* em 3D. Concretamente: a única quantidade que sabemos controlar globalmente é cega justamente para as escalas pequenas onde uma singularidade se formaria. Em 2D, o mesmo cálculo dá invariância exata — e o problema é resolvido. A diferença entre um problema do milênio e um exercício de doutorado é um expoente.
+que preserva soluções. Sob ele, a norma da energia se comporta como $\lVert u_\lambda\rVert_{L^2} = \lambda^{-1/2}\lVert u\rVert_{L^2}$: ao ampliar os pequenos detalhes, ela **diminui**. Diz-se que a energia é *supercrítica* em 3D. Concretamente: a única quantidade que sabemos controlar globalmente é cega justamente para as escalas pequenas onde uma singularidade se formaria. Em 2D, o mesmo cálculo dá invariância exata — e o problema é resolvido. A diferença entre um problema do milênio e um exercício de doutorado é um expoente.
 
 Setenta anos de trabalho não fecharam essa lacuna, mas a mapearam com precisão. Eberhard Hopf (1902–1983) estendeu Leray a domínios limitados em 1951. Olga Ladyzhenskaya (1922–2004), Giovanni Prodi e James Serrin deram critérios de regularidade **condicional**: se a solução pertence a $L^p_t L^q_x$ com $\tfrac{2}{p}+\tfrac{3}{q}\le 1$, ela é suave. E Caffarelli, Kohn e Nirenberg provaram em **1982** um teorema de regularidade parcial: o conjunto singular de uma solução fraca adequada tem **medida de Hausdorff parabólica unidimensional nula**.
 
@@ -166,7 +166,7 @@ $$
 \dot{x}_n \;=\; x_n\,(x_0+\cdots+x_{n-1}) \;+\; \text{Erro},
 $$
 
-onde $x_n$ é a amplitude da $n$-ésima camada. É um método de papel e lápis, e foi ele que produziu os avanços decisivos: singularidades não autossemelhantes para Euler 3D sem força em $C^\infty(\mathbb{R}^3\setminus\{0\})\cap C^{1,\beta}\cap L^2$ (Córdoba, Martínez Zoroa e Fan Zheng, *Annals of PDE*, 2025), blow-up para IPM com fonte suave, e — o mais próximo do alvo — blow-up em tempo finito para Navier–Stokes **hipodissipativo**, com viscosidade fracionária $\lvert\nabla\rvert^{\alpha}$, e força em $L^1_t C^{1,\varepsilon}_x\cap L^\infty_t L^2_x$.
+onde $x_n$ é a amplitude da $n$-ésima camada. É um método de papel e lápis, e foi ele que produziu os avanços decisivos: singularidades não autossemelhantes para Euler 3D sem força em $C^\infty(\mathbb{R}^3\setminus\{0\})\cap C^{1,\beta}\cap L^2$ (Córdoba, Martínez Zoroa e Fan Zheng, *Annals of PDE*, 2025), blow-up para IPM com fonte suave, e — o mais próximo do alvo — blow-up em tempo finito para Navier–Stokes **hipodissipativo**, com viscosidade fracionária $\lvert\nabla\rvert^{\alpha}$, e força em $L^1_t C_x^{1,\varepsilon}\cap L^\infty_t L^2_x$.
 
 Note o padrão: em cada um desses resultados, o que falta para satisfazer Clay é a **regularidade da força**. Consegue-se $C^{1,\alpha}$, consegue-se $C^{1,\varepsilon}$ integrável no tempo — mas não $C^\infty$. Era essa a última trincheira.
 
@@ -207,6 +207,11 @@ $$
 $$
 
 com $h$ pequeno e fixo. O núcleo vira uma coluna cada vez mais fina e alongada — a OpenAI descreveu a estrutura como um espaguete —, e a energia cinética nele escala como $\tau^{1/2-3h}\to 0$: o volume da região veloz encolhe mais rápido do que a velocidade cresce, o que é exatamente o que permite explodir em $L^\infty$ mantendo $L^2$ limitada. A singularidade é um ponto único, $r=z=0$, no instante $t=1$; em qualquer outro lugar, e para qualquer $t<1$, o escoamento é perfeitamente suave.
+
+![Visualização do vórtice construído na demonstração da OpenAI: linhas de corrente helicoidais convergindo para um eixo vertical, com o núcleo alongando-se numa coluna fina](/assets/img/posts/navier-stokes-vortice-openai.webp){: width="900" height="1000" }
+_A solução da OpenAI é um vórtice, visualizado aqui, em que o amarelo representa velocidade de rotação mais alta e o azul, mais baixa. Imagem: [OpenAI](https://openai.com/index/navier-stokes-solution/)._
+
+Vale contrastar essa imagem com o estado de espírito da área até bem pouco tempo atrás. Como resumiu Diego Córdoba à *Quanta Magazine*: *"Dez anos atrás, ninguém acreditava que houvesse uma singularidade para Navier–Stokes"* — embora muitos já acreditassem que as equações de Euler admitissem uma.
 
 E a força? Aqui está o truque estrutural, e ele merece ser entendido porque é também o motivo da desconfiança. A construção **não** parte de uma força e resolve para o escoamento. Faz o inverso: escolhido qualquer par incompressível $(u,p)$, define-se
 
@@ -260,3 +265,4 @@ Fica um último ponto, que é o assunto do próximo texto. O que aconteceu em se
 
 - Tao, T. [*Finite time blowup with smooth forcing term for the incompressible porous medium, Boussinesq, and incompressible Euler equations*](https://terrytao.wordpress.com/2026/09/07/finite-time-blowup-with-smooth-forcing-term-for-the-incompressible-porous-medium-boussinesq-and-incompressible-euler-equations/). *What's new*, 7 set. 2026.
 - OpenAI. [*On the Navier–Stokes Millennium Prize Problem*](https://openai.com/index/navier-stokes-solution/), 8 set. 2026. Preprint: [*Finite Time Blowup for Navier–Stokes*](https://cdn.openai.com/pdf/32d9f210-8b73-45e0-91bc-82a30aef8a9a/navier-stokes.pdf).
+- *AI Has Solved One of Math's \$1 Million Millennium Prize Problems*. **Quanta Magazine**, 8 set. 2026. [Link](https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/).
