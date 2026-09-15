@@ -195,7 +195,7 @@ Terence Tao deu, no mesmo dia, a imagem mais dura do debate: a de que empresas d
 
 É esse o assunto do terceiro texto.
 
-## Coda: como se atribui crédito
+## Conclusão: como se atribui crédito
 
 Termino com o documento que, a meu ver, acertou o tom melhor do que todos os outros — e que quase não circulou, abafado pela polêmica.
 
@@ -205,7 +205,7 @@ A American Mathematical Society emitiu uma nota sobre o anúncio. Ela começa re
 
 Leia devagar, porque cada vírgula dessa frase é uma decisão.
 
-Ela começa em **1822 e 1845**, não em setembro de 2026. Nomeia **Córdoba e Martínez-Zoroa em primeiro lugar** entre os contemporâneos — dois pesquisadores de um instituto público em Madri que passaram anos construindo o mecanismo e que, na cobertura de imprensa, apareceram em nota de rodapé quando apareceram. Registra que Alpöge e Buckmaster foram **"assistidos por novas tecnologias"** — sem eufemismo e sem alarde, exatamente como os próprios declararam. E credita à OpenAI **"os passos finais"** — nem mais, nem menos: passos finais são passos reais, e são finais.
+Ela começa em **1822 e 1845**, não em setembro de 2026. Nomeia **Córdoba e Martínez-Zoroa em primeiro lugar** entre os contemporâneos — dois pesquisadores de um instituto público em Madrid que passaram anos construindo o mecanismo e que, na cobertura de imprensa, apareceram em nota de rodapé quando apareceram. Registra que Alpöge e Buckmaster foram **"assistidos por novas tecnologias"** — sem eufemismo e sem alarde, exatamente como os próprios declararam. E credita à OpenAI **"os passos finais"** — nem mais, nem menos: passos finais são passos reais, e são finais.
 
 E note a última palavra: *matemáticos* da OpenAI. Não "a IA da OpenAI". A AMS escolheu atribuir o feito a pessoas, numa empresa, que dirigiram um sistema — o que, como se soube durante aquela chamada de 6 de setembro, é a descrição correta: uma equipe inteira, várias tentativas, problemas mais fáceis antes, *prompts* escritos com ajuda do Codex.
 
