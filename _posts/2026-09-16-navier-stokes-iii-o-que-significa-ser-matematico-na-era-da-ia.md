@@ -126,7 +126,7 @@ Nada disso está automatizado. Muito disso talvez nunca esteja, porque depende d
 
 Talvez seja esse o saldo. Fomos obrigados, por uma máquina, a explicar por que fazemos isto.
 
-## Coda pessoal: *Erbarme dich*
+## Conclusão pessoal: *Erbarme dich*
 
 Termino saindo da matemática, porque o limite de que quero falar não é matemático.
 
