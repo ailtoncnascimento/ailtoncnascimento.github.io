@@ -33,6 +33,7 @@ Programa de Pós-Graduação em Matemática (PPGMAT) — UFPI.
 - **Notas de aula — Preliminares do cálculo, equação de Laplace e solução fundamental (Semana 2, Unidade 1):** [PDF](/assets/pdfs/edp1/Notas_EDP_I_Laplace_Solucao_Fundamental.pdf)
 - **Notas de aula — Função de Green, fórmula de Poisson e propriedade do valor médio (Semana 3, Unidade 1):** [PDF](/assets/pdfs/edp1/Notas_EDP_I_Funcao_de_Green_e_Poisson.pdf)
 - **Notas de aula — Estimativas locais para a derivada de um função harmônica, Teorema de Liouville, Analiticidade, Desigualdade de Harnack e funções sub-harmônicas (Semana 4, Unidade 1):** [PDF](/assets/pdfs/edp1/Notas_EDP_I_Estimativas_Liouville_Harnack.pdf)
+- **Notas de aula — O método de Perron para o problema de Dirichlet (Semana 5, Unidade 1):** [PDF](/assets/pdfs/edp1/Notas_EDP_I_Metodo_de_Perron.pdf)
 
 **Listas de exercícios — Equações Diferenciais Parciais I**
 
