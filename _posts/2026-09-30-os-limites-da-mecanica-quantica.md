@@ -290,7 +290,7 @@ A **terceira** é a gravidade. A relatividade geral e a mecânica quântica são
 
 A tese de Penrose é que as três são uma só, e que a saída não é dobrar a gravidade às regras da quântica, mas deixar que a gravidade modifique a quântica — e que essa modificação, sendo dinâmica e dependente da massa, resolve o problema da medição e o limite clássico de uma vez. A tese pode muito bem estar errada; sua versão mais bonita já foi descartada num laboratório sob os Apeninos. Mas ela tem uma virtude que as interpretações não têm, e que é a única virtude que conta: **ela se expõe ao experimento**.
 
-## Coda: a nota de rodapé
+## Conclusão: a nota de rodapé
 
 Volto à carta de 30 de setembro de 1931.
 
