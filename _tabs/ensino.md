@@ -34,12 +34,14 @@ Programa de Pós-Graduação em Matemática (PPGMAT) — UFPI.
 - **Notas de aula — Função de Green, fórmula de Poisson e propriedade do valor médio (Semana 3, Unidade 1):** [PDF](/assets/pdfs/edp1/Notas_EDP_I_Funcao_de_Green_e_Poisson.pdf)
 - **Notas de aula — Estimativas locais para a derivada de um função harmônica, Teorema de Liouville, Analiticidade, Desigualdade de Harnack e funções sub-harmônicas (Semana 4, Unidade 1):** [PDF](/assets/pdfs/edp1/Notas_EDP_I_Estimativas_Liouville_Harnack.pdf)
 - **Notas de aula — O método de Perron para o problema de Dirichlet (Semana 5, Unidade 1):** [PDF](/assets/pdfs/edp1/Notas_EDP_I_Metodo_de_Perron.pdf)
+- **Notas de aula — Espaços de Sobolev, Parte A: derivada fraca, os espaços de Sobolev, aproximação, extensão e desigualdade de Gagliardo–Nirenberg–Sobolev (Unidade 2):** [PDF](/assets/pdfs/edp1/Notas_EDP_I_Sobolev_ParteA.pdf)
 
 **Listas de exercícios — Equações Diferenciais Parciais I**
 
 | Lista | Assunto | Arquivo |
 | :--: | :-- | :--: |
 | 1ª | Classificação, formas canônicas e equação de Laplace (Unidade 1) | [PDF](/assets/pdfs/edp1/Lista_de_Exercicios_1_EDP_I_2026_2.pdf) |
+| 2ª | Espaços de Sobolev (Unidade 2) | [PDF](/assets/pdfs/edp1/Lista_02_EDP_I_Sobolev.pdf) |
 
 <!-- ============================================================
      MODELO PARA MAIS MATERIAIS — invisível no site
