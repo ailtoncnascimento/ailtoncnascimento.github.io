@@ -176,7 +176,7 @@ Consequência: entre as três distâncias à cúbica, $\langle\tau-n^3\rangle$, 
 O que mais aprecio no texto de Chapouto, e que considero a marca de uma digestão de verdade, é a seção de **contraexemplos**. Ela mostra, com funções concretas, que cada hipótese da estimativa bilinear é necessária:
 
 - sem a condição de média nula, a estimativa falha para todos $s,b$, porque quando $n_1=0$ ou $n_2=0$ o produto $n\,n_1n_2$ se anula e o ganho desaparece;
-- se a estimativa vale, então necessariamente $b=\tfrac12$, o que força a troca de $X^{s,b}$ pelos espaços $Y^s$, que acrescentam uma componente $\ell^2_nL^1_\tau$ para recuperar a continuidade no tempo;
+- se a estimativa vale, então necessariamente $b=\tfrac12$, o que força a troca de $X^{s,b}$ pelos espaços $Y^s$, que acrescentam uma componente $$\ell^2_nL^1_\tau$$ para recuperar a continuidade no tempo;
 - se a estimativa vale, então $s\ge-\tfrac12$.
 
 Um artigo de pesquisa prova que algo funciona. Uma boa digestão mostra também *por que* não poderia funcionar de outro jeito. Na linguagem do Projeto Bourgain, um texto como o de Chapouto é quase uma exposição pronta de uma parte dos artigos de 1993: preenche passos, oferece heurísticas, testa os limites com exemplos e acompanha a literatura posterior, de Kenig–Ponce–Vega a Colliander, Keel, Staffilani, Takaoka e Tao.
