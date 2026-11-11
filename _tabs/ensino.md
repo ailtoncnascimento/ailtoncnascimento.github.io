@@ -36,6 +36,7 @@ Programa de Pós-Graduação em Matemática (PPGMAT) — UFPI.
 - **Notas de aula — O método de Perron para o problema de Dirichlet (Semana 5, Unidade 1):** [PDF](/assets/pdfs/edp1/Notas_EDP_I_Metodo_de_Perron.pdf)
 - **Notas de aula — Espaços de Sobolev, Parte A: derivada fraca, os espaços de Sobolev, aproximação, extensão e desigualdade de Gagliardo–Nirenberg–Sobolev (Unidade 2):** [PDF](/assets/pdfs/edp1/Notas_EDP_I_Sobolev_ParteA.pdf)
 - **Notas de aula — Espaços de Sobolev, Parte B: imersões de Sobolev, Morrey, compacidade de Rellich–Kondrachov, Poincaré, funções Lipschitz e o diagrama geral $W^{k,p}\hookrightarrow W^{l,q}$ (Unidade 2):** [PDF](/assets/pdfs/edp1/Notas_EDP_I_Sobolev_ParteB.pdf)
+- **Notas de aula — Equação do calor: dedução física e via Fourier, solução fundamental, problema de Cauchy, princípio de Duhamel, fórmulas da média, princípios do máximo, métodos de energia e decomposição espectral do Laplaciano (Unidade 3):** [PDF](/assets/pdfs/edp1/Notas_EDP_I_Equacao_do_Calor.pdf)
 
 **Listas de exercícios — Equações Diferenciais Parciais I**
 
