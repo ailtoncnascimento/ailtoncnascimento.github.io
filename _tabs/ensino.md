@@ -43,6 +43,7 @@ Programa de Pós-Graduação em Matemática (PPGMAT) — UFPI.
 | :--: | :-- | :--: |
 | 1ª | Classificação, formas canônicas e equação de Laplace (Unidade 1) | [PDF](/assets/pdfs/edp1/Lista_de_Exercicios_1_EDP_I_2026_2.pdf) |
 | 2ª | Espaços de Sobolev (Unidade 2) | [PDF](/assets/pdfs/edp1/Lista_02_EDP_I_Sobolev.pdf) |
+| 3ª | Equação do calor (Unidade 3) | [PDF](/assets/pdfs/edp1/Lista_03_EDP_I_Calor.pdf) |
 
 <!-- ============================================================
      MODELO PARA MAIS MATERIAIS — invisível no site
