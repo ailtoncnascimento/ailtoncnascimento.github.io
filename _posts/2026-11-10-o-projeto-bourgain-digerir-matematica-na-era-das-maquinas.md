@@ -195,7 +195,7 @@ Para encontrar parceiros, há um [canal no Zulip](https://bourgain.zulipchat.com
 
 Penso, em particular, nos nossos programas de pós-graduação. Um seminário de doutorado que passe um semestre lendo um artigo de Bourgain, linha por linha, produz exatamente o tipo de texto que o projeto procura. E produz, de quebra, a melhor formação que conheço: ninguém aprende tanto sobre uma técnica quanto quem teve de explicar por que cada passo de uma demonstração famosa é verdadeiro.
 
-## Segundo exemplo: um parágrafo de 1997 e uma tese de 2026
+## Segundo exemplo: um parágrafo de 1997 e uma tese de 2025
 
 O segundo exemplo é mais próximo de casa, e é dele que me orgulho.
 
