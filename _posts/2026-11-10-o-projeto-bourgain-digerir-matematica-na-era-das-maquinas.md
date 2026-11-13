@@ -13,7 +13,7 @@ No texto sobre o dia 6 de outubro, abri com uma frase de Jacob Tsimerman, Medalh
 
 Treze dias depois do 6 de outubro, apareceu no blog de Terence Tao um texto convidado anunciando o **Projeto Bourgain** ([*The Bourgain Project*](https://terrytao.wordpress.com/2026/10/19/the-bourgain-project/), 19 out. 2026). Ele foi assinado por três matemáticos: Lukas Liehr, Mitchell Taylor e meu amigo **João Pedro Ramos**, do IMPA. A proposta é simples de enunciar e enorme de executar: entender, por completo, cada um dos mais de quinhentos artigos de Bourgain, e escrever esse entendimento de modo que um matemático em início de carreira consiga acompanhar.
 
-Confesso que eu já tinha lido sobre o projeto, mas não tinha percebido que o João era um dos seus protagonistas. Isso mudou na sexta-feira, 6 de novembro. Eu estava na plateia da palestra plenária que ele deu no [7º Workshop em Equações Dispersivas Não Lineares](https://impa.br/evento/7th-workshop-on-nonlinear-dispersive-equations/), no IMPA, um encontro internacional que celebrou também os 65 anos de **Felipe Linares**, meu orientador de doutorado. O lugar não poderia ser mais apropriado: o auditório estava cheio de gente que vive, todos os dias, das ideias de Bourgain.
+Confesso que eu já tinha lido sobre o projeto, mas não tinha percebido que o João era um dos seus protagonistas. Isso mudou na sexta-feira, 6 de novembro. Eu estava na plateia da [palestra plenária](https://youtu.be/aXYn2rEa-RE) que ele deu no [7º Workshop em Equações Dispersivas Não Lineares](https://impa.br/evento/7th-workshop-on-nonlinear-dispersive-equations/), no IMPA, um encontro internacional que celebrou também os 65 anos de **Felipe Linares**, meu orientador de doutorado. O lugar não poderia ser mais apropriado: o auditório estava cheio de gente que vive, todos os dias, das ideias de Bourgain.
 
 Foi uma palestra marcante, e para mim emblemática. O João revisitou os grandes momentos da obra de Bourgain e depois apresentou o projeto como um esforço comunitário, aberto a todos. Mas o tema central da fala foi a inteligência artificial. Ao fundo, o tempo todo, estava a pergunta que tem ocupado esta série: o que significa fazer matemática numa época em que as máquinas também a fazem? Saí do auditório com a certeza de que tinha testemunhado um daqueles momentos em que uma comunidade começa a responder, em voz alta, a uma pergunta que até então só fazia em voz baixa.
 
@@ -303,7 +303,7 @@ Aos alunos e colegas que me leem daqui do Piauí: escolham um artigo. Há Bourga
 - Liehr, L.; Ramos, J. P.; Taylor, M. [*The Bourgain Project*](https://terrytao.wordpress.com/2026/10/19/the-bourgain-project/). Texto convidado no blog *What's new*, de T. Tao, 19 out. 2026.
 - [*Paper of the Future Prize*](https://amathr.org/prizes/paper-of-the-future-prize/) e a revista [*Mathematical Discourse*](https://www.mathematicaldiscourse.org/), iniciativas citadas pelo projeto como complementares.
 
-- Ramos, J. P. *The Bourgain Project*. Palestra plenária no [7º Workshop em Equações Dispersivas Não Lineares](https://impa.br/evento/7th-workshop-on-nonlinear-dispersive-equations/), IMPA, Rio de Janeiro, 6 nov. 2026.
+- Ramos, J. P. *The Bourgain Project*. Palestra plenária no [7º Workshop em Equações Dispersivas Não Lineares](https://impa.br/evento/7th-workshop-on-nonlinear-dispersive-equations/), IMPA, Rio de Janeiro, 6 nov. 2026. [Vídeo](https://youtu.be/aXYn2rEa-RE).
 
 **Sobre Bourgain**
 
